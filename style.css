@@ -50,13 +50,16 @@ nav a:hover {
     margin: 5rem;
 }
 
+.grafico {
+    margin-top: 3rem;
+}
+
 .graficos-container_texto {
     font-size: 1.3rem;
     text-align: center;
     padding: 2rem;
     border: var(--secondary-color) solid 2px;
     border-radius: 20px
-}
 }
 
 span {
